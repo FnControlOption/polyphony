@@ -37,7 +37,7 @@ harnesses the power of [Ruby fibers](https://ruby-doc.org/core-2.5.1/Fiber.html)
 to provide a cooperative, sequential coroutine-based concurrency model. Under
 the hood, Polyphony uses
 [io_uring](https://unixism.net/loti/what_is_io_uring.html) or
-[libev](https://github.com/enki/libev) to maximize I/O performance.
+[libev](http://software.schmorp.de/pkg/libev) to maximize I/O performance.
 
 ## Features
 
