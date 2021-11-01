@@ -17,7 +17,7 @@ next_title: Installing Polyphony
 Polyphony is a library for building concurrent applications in Ruby. Polyphony
 implements a comprehensive
 [fiber](https://ruby-doc.org/core-2.5.1/Fiber.html)-based concurrency model,
-using [libev](https://github.com/enki/libev) as a high-performance event reactor
+using [libev](http://software.schmorp.de/pkg/libev) as a high-performance event reactor
 for I/O, timers, and other asynchronous events.
 
 [Overview](getting-started/overview){: .btn .btn-green .text-gamma }
